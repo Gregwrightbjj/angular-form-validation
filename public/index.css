@@ -1,0 +1,22 @@
+.theForm{
+	border:solid black 1px;
+	width: 30%;
+	padding-left: 10px;
+    padding-top: 10px;
+}
+.container{
+	width: 100%;
+}
+.name,.text, .email, .website, .messages{
+	margin-bottom: 20px;
+}
+.onlyButton{
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.error{
+	border-left: red solid;
+}
+.valid{
+	border-left: green solid;
+}
